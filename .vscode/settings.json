@@ -1,0 +1,6 @@
+{
+    "workbench.editor.closeOnFileDelete": true,
+    "files.watcherInclude": [
+        "open changes "
+    ]
+}
